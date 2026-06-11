@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-pull-deep-ocean/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Soft Pull Deep Ocean](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-pull-deep-ocean/) |
+| **Get License** | [Request Licensing for Soft Pull Deep Ocean](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-pull-deep-ocean/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the tide pulling in your eyes
+> Taking me away where the shadows hide
+> We don’t need the moon to light up the dark
+> Got this gentle fire burning in my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 11, 2026 |
+| **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
